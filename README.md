@@ -33,7 +33,7 @@ I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA)
 
 ### 📊 GitHub Stats & Core Focus
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Erroom&theme=dark)](https://git.io/streak-stats)
 
 ---
 
