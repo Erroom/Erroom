@@ -30,11 +30,9 @@ I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA)
 
 
 ---
-
 ### 📊 GitHub Stats & Core Focus
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erroom&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 ### 📫 Connect With Me
