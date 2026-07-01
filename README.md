@@ -1,40 +1,39 @@
 # Hi there, I'm Anit Chaudhary 👋
 
-I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA) student at Tribhuvan University.
+I am a Bachelor of Computer Applications (BCA) student at Tribhuvan University, Nepal, focusing on **Data Science** and practical programming. I enjoy building data-driven projects that solve real-world problems.
 
 ---
 
-### 🔭 My Interests
+### 🔭 What I Do & Study
 
-* **Machine Learning & AI:** Designing, training, and deploying predictive models (such as tree-based ensemble methods and classification algorithms) to solve localized, real-world problems.
-* **Generative AI & RAG:** Exploring LLM orchestration architectures, vector databases, and Retrieval-Augmented Generation (RAG) pipelines to build intelligent contextual tools.
-* **Big Data Analytics:** Scaling data processing pipelines using distributed frameworks like Apache Hadoop and Apache Spark to handle high-volume data ingestion.
-* **Data Visualization:** Synthesizing complex analytical outputs into clean, conversion-focused visual stories using Power BI and Tableau.
-  
+* **Machine Learning:** Building and training predictive models (like Random Forests and KNN) to analyze regional data, with a specific interest in environmental modeling like flood and landslide tracking.
+* **AI & LLMs:** Exploring Large Language Models (LLMs), API integrations (like Gemini), and simple Retrieval-Augmented Generation (RAG) concepts.
+* **Data & Analytics:** Cleaning, processing, and exploring datasets using Python tools and creating interactive dashboards.
+
 ---
 
-### 🛠️ My Technical Toolkit
+### 🛠️ Technical Toolkit
 
-* **Programming Languages:** Python, MySQL, PHP, Javascript, HTML, CSS, SQLite
-* **Data Visualization:** Power BI, Excel, Matplotlib, Seaborn, A/B Testing
-* **Deployment & Tools:** Git, GitHub, Git Bash, Hugging Face, Gradio, 
+* **Languages:** Python, SQL (MySQL, SQLite), JavaScript, PHP, HTML/CSS
+* **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+* **Tools & Platforms:** Git, GitHub, Hugging Face, Gradio, Power BI, Excel
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. [Nepal Landslide and Flood Prediction System] https://huggingface.co/spaces/lameina/Test_RandomForest_model
-* **Overview:** An environmental predictive model built to analyze rolling rainfall sums and historical disaster metrics in Nepal.
-* **Tech Stack:** Python, NASA POWER API, BIPAD Portal Data, Random Forest Algorithm, Gradio, Hugging Face.
-* **Key Achievement:** Successfully validated model performance against the historical 2021 Melamchi flood data and deployed it live on Hugging Face.
-
+#### [Nepal Landslide & Flood Prediction System](https://huggingface.co/spaces/lameina/Test_RandomForest_model)
+* **What it does:** An environmental tracking and prediction app that evaluates historical disaster metrics and rolling rainfall patterns across Nepal.
+* **How it's built:** Python, Random Forest algorithm, NASA POWER API, BIPAD Portal historical data, and a Gradio interface.
+* **Status:** Live and deployed on Hugging Face Spaces (validated using historical data from the 2021 Melamchi flood event).
 
 ---
-### 📊 GitHub Stats & Core Focus
+
+### 📊 Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erroom&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 * **Email:** anitc910@gmail.com
