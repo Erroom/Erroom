@@ -22,7 +22,7 @@ I am a Bachelor of Computer Applications (BCA) student at Tribhuvan University, 
 
 ### 🚀 Featured Projects
 
-#### [Nepal Landslide & Flood Prediction System] (https://huggingface.co/spaces/lameina/Test_RandomForest_model)
+#### [Nepal Landslide & Flood Prediction System](https://huggingface.co/spaces/lameina/Landslide-flood-predictor-v2?logs=container)
 * **What it does:** An environmental tracking and prediction app that evaluates historical disaster metrics and rolling rainfall patterns across Nepal.
 * **How it's built:** Python, Random Forest algorithm, NASA POWER API, BIPAD Portal historical data, and a Gradio interface.
 * **Status:** Live and deployed on Hugging Face Spaces (validated using historical data from the 2021 Melamchi flood event).
